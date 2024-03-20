@@ -1,3 +1,4 @@
+#this is the main code for windows vm build
 terraform {
   backend "local" {
     path = "/etc/.azure/azure.win.vm.terraform.tfstate"
